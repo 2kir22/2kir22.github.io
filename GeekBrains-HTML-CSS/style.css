@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000000;
+    background-color: #f8f8f8  
+}
+
+.menu li, .menu a {
+    color: #8d5524;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Lobster", cursive;  
+    font-size: 24px;      
+}
+
+.menu li {
+    color: #c68642;  
+}
+
+h2 {
+    color:black;
+    font-size: 18px; 
+    background-color: #eaeaea;    
+}
+
+.catalog {color: #c68642; text-decoration: none;}
+
+.product {
+    color: #707070;
+    font-size: 14px;
+    line-height: 16px;
+    font-style: italic;
+}
+
+.product-declaration li {
+    color: #484848;
+    font-size: 14px;
+    font-style: oblique;
+    line-height: 18px;
+    list-style-image: url(img/cl.jpg);
+}
+
+.product-declaration-full {
+    color: #484343;    
+    text-align: left;    
+}
+
+a img, #rameau, iframe {
+    border: 1px solid #707070;
+}
+
+iframe {
+    width: 500px; 
+    height: 500px;    
+}
+
+.myform {
+    width:250px; 
+    height: 30px;
+}
+
+input, textarea {
+    color:#8d5524;
+    font-size: 14px;
+    border: 1px solid #8d5524;
+}
+
+label b {
+    color: #8d5524;
+}
